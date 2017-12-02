@@ -23,4 +23,6 @@ Offline-Password-Cracker est un simple script Python capable de retrouver un mot
 Suporte actuellement le SHA1 - SHA254 - SHA512 - MD5
 
 ### Démonstration :
+ ![Screenshot](https://github.com/HomardBoy/Offline-Password-Cracker/blob/master/git2.png)
+ ![Screenshot](https://github.com/HomardBoy/Offline-Password-Cracker/blob/master/git1.png)
 
