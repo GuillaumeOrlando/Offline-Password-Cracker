@@ -13,4 +13,4 @@ Pour l'utiliser, il faut au préalable :
 Suporte actuellement le SHA1 - SHA254 - SHA512 - MD5
 
 ### Exemple :
-![alt text](https://raw.githubusercontent.com/HomardBoy/Offline-Password-Cracker/img.png)
+![alt text](https://raw.githubusercontent.com/HomardBoy/Offline-Password-Cracker/blob/master/git.PNG)
