@@ -24,5 +24,4 @@ Suporte actuellement le SHA1 - SHA254 - SHA512 - MD5
 
 ### Démonstration :
  ![Screenshot](https://github.com/HomardBoy/Offline-Password-Cracker/blob/master/git2.PNG)
- ![Screenshot](https://github.com/HomardBoy/Offline-Password-Cracker/blob/master/git1.PNG)
 
