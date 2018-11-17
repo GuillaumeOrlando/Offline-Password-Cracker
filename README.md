@@ -31,8 +31,6 @@ Suporte actuellement le SHA1 - SHA254 - SHA512 - MD5
 
 ### Démonstration :
  ![Screenshot](https://github.com/HomardBoy/Offline-Password-Cracker/blob/master/Capture.PNG)
- Démonstration contre une liste de hashs réel :
- https://www.youtube.com/watch?v=HuS3uuI5p1w&feature=youtu.be
 
 ### Mise en forme des hashs :
 Dans le but de tester l'efficacité du programme, il est nécessaire d'utiliser un grand nombre de hashs. La mise en forme de ces hashs peut parfois êtres très longue est fastidieuse, c'est pourquoi un script additionel est fournis pour mettre en forme les hashs avant de les analyser. (voir la vidéo démonstration).
